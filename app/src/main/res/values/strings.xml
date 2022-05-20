@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TvShowCatalog</string>
+    <string name="login_button_tag">Login</string>
+    <string name="email_tag">email</string>
+    <string name="password_tag">password</string>
+    <string name="register_tag">Register to watch</string>
+    <string name="product_by">Produced by Natã Marques</string>
+    <!--Tags for register form -->
+    <string name="name_form_tag">Name</string>
+    <string name="email_form_tag">Email</string>
+    <string name="password_form_tag">Password</string>
+    <string name="register_button_form_tag">Create account</string>
+</resources>

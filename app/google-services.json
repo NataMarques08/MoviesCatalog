@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90807084713",
+    "project_id": "watchtv-48d30",
+    "storage_bucket": "watchtv-48d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90807084713:android:d223e2199d88c9f83dabb8",
+        "android_client_info": {
+          "package_name": "com.example.tvshowcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90807084713-15i8vjetk43e8ap670l0ikcbsuocmq3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhdNEC8r4LoqR_AbviEB-8DUlDCdTVMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90807084713-15i8vjetk43e8ap670l0ikcbsuocmq3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
